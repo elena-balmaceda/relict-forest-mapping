@@ -1,6 +1,6 @@
-# **Relict Forest Mapping**
+# **Past Forest Mapping**
 
-Relict Forest Mapping is a remote sensing project aimed at identifying and classifying relict forest patches in the Pampa del Tamarugal, Atacama Desert (Chile). The study explores the spatial relationship between forest remnants and archaeological sites using satellite imagery and spatial analysis techniques.
+Past Forest Mapping is a remote sensing project aimed at identifying and classifying sub fossil forest patches in the Pampa del Tamarugal, Atacama Desert (Chile). The study explores the spatial relationship between forest remnants and archaeological sites using satellite imagery and spatial analysis techniques.
 
 ## **Overview**
 
